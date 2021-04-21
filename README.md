@@ -1,6 +1,6 @@
 # carnivalZemoga
 
-Steps tu run
+Steps to run
 
 1. Clone the repository "git clone git@github.com:aaospina/carnivalZemoga.git"
 2. Go to the folder proyect
