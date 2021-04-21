@@ -9,8 +9,3 @@ Feature: Cruise search
     Given Pedro has a grid of cruises to Bahamas
     When He filters cruises by price between 500 and 1000
     Then the cruises with the price selected will be desplayed
-
-  Scenario: Sort cruises by price
-    Given Pedro has a grid of cruises to Bahamas
-    When He sorts cruises by price
-    Then the cruises will be sorted by price
